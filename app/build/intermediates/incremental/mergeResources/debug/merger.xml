@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.3"><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/exploded-aar/com.jeremyfeinstein.slidingmenu/library/1.3/res"><file name="slidingmenumain" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/exploded-aar/com.jeremyfeinstein.slidingmenu/library/1.3/res/layout/slidingmenumain.xml" qualifiers="" type="layout"/><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/exploded-aar/com.jeremyfeinstein.slidingmenu/library/1.3/res/values/values.xml" qualifiers=""><item name="selected_view" type="id"/><declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr format="reference" name="viewAbove"/>
+        <attr format="reference" name="viewBehind"/>
+        <attr format="dimension" name="behindOffset"/>
+        <attr format="dimension" name="behindWidth"/>
+        <attr format="float" name="behindScrollScale"/>
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0"/>
+            <enum name="fullscreen" value="1"/>
+        </attr>
+        <attr format="reference" name="shadowDrawable"/>
+        <attr format="dimension" name="shadowWidth"/>
+        <attr format="boolean" name="fadeEnabled"/>
+        <attr format="float" name="fadeDegree"/>
+        <attr format="boolean" name="selectorEnabled"/>
+        <attr format="reference" name="selectorDrawable"/>
+    </declare-styleable></file></source></dataSet><dataSet config="21.0.3"><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/res"/></dataSet><dataSet config="main"><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res"><file name="update_loading_progressbar_anim" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/anim/update_loading_progressbar_anim.xml" qualifiers="" type="anim"/><file name="bottom_text_color" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/color/bottom_text_color.xml" qualifiers="" type="color"/><file name="news_tab_theme" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/color/news_tab_theme.xml" qualifiers="" type="color"/><file name="icon_function" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/icon_function.xml" qualifiers="" type="drawable"/><file name="icon_govaffairs" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/icon_govaffairs.xml" qualifiers="" type="drawable"/><file name="icon_newscenter" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/icon_newscenter.xml" qualifiers="" type="drawable"/><file name="icon_setting" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/icon_setting.xml" qualifiers="" type="drawable"/><file name="icon_smartservice" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/icon_smartservice.xml" qualifiers="" type="drawable"/><file name="news__tab_indicator" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/news__tab_indicator.xml" qualifiers="" type="drawable"/><file name="shadow" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/shadow.xml" qualifiers="" type="drawable"/><file name="toast_bg" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable/toast_bg.xml" qualifiers="" type="drawable"/><file name="back" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/back.png" qualifiers="hdpi-v4" type="drawable"/><file name="bottom_tab_bg" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/bottom_tab_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="dot_focus" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/dot_focus.png" qualifiers="hdpi-v4" type="drawable"/><file name="dot_normal" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/dot_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="govaffairs2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/govaffairs2.png" qualifiers="hdpi-v4" type="drawable"/><file name="govaffairs_press2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/govaffairs_press2.png" qualifiers="hdpi-v4" type="drawable"/><file name="home2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/home2.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_press2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/home_press2.png" qualifiers="hdpi-v4" type="drawable"/><file name="home_scroll_default" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/home_scroll_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_favorite" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/icon_favorite.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_news_comment_num" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/icon_news_comment_num.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_share" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/icon_share.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_textsize" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/icon_textsize.png" qualifiers="hdpi-v4" type="drawable"/><file name="img_menu" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/img_menu.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_arr_normal" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/menu_arr_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_arr_select" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/menu_arr_select.png" qualifiers="hdpi-v4" type="drawable"/><file name="menu_item_bg_select" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/menu_item_bg_select.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_cate_arr" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/news_cate_arr.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_list_line" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/news_list_line.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_pic_default" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/news_pic_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_tab_bg" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/news_tab_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="news_tab_item_bg_select" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/news_tab_item_bg_select.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="newscenter2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/newscenter2.png" qualifiers="hdpi-v4" type="drawable"/><file name="newscenter_press2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/newscenter_press2.png" qualifiers="hdpi-v4" type="drawable"/><file name="pic_item_list_default" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/pic_item_list_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="progress_dialog_bg" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/progress_dialog_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="setting2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/setting2.png" qualifiers="hdpi-v4" type="drawable"/><file name="setting_press2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/setting_press2.png" qualifiers="hdpi-v4" type="drawable"/><file name="smartservice2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/smartservice2.png" qualifiers="hdpi-v4" type="drawable"/><file name="smartservice_press2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/smartservice_press2.png" qualifiers="hdpi-v4" type="drawable"/><file name="title_red_bg2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/title_red_bg2.png" qualifiers="hdpi-v4" type="drawable"/><file name="topic_title_arr" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/topic_title_arr.png" qualifiers="hdpi-v4" type="drawable"/><file name="xsearch_loading" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/xsearch_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="xsearch_msg_pull_arrow_down" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-hdpi/xsearch_msg_pull_arrow_down.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="act_news_detail" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/act_news_detail.xml" qualifiers="" type="layout"/><file name="activity_main" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="content_frame" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/content_frame.xml" qualifiers="" type="layout"/><file name="custom_progress_dialog" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/custom_progress_dialog.xml" qualifiers="" type="layout"/><file name="custom_toast" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/custom_toast.xml" qualifiers="" type="layout"/><file name="frag_home2" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/frag_home2.xml" qualifiers="" type="layout"/><file name="frag_item_news" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/frag_item_news.xml" qualifiers="" type="layout"/><file name="frag_news" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/frag_news.xml" qualifiers="" type="layout"/><file name="frag_topic" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/frag_topic.xml" qualifiers="" type="layout"/><file name="layout_item_menu" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_item_menu.xml" qualifiers="" type="layout"/><file name="layout_item_topic" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_item_topic.xml" qualifiers="" type="layout"/><file name="layout_left_menu" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_left_menu.xml" qualifiers="" type="layout"/><file name="layout_loading" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_loading.xml" qualifiers="" type="layout"/><file name="layout_news_item" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_news_item.xml" qualifiers="" type="layout"/><file name="layout_roll_view" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_roll_view.xml" qualifiers="" type="layout"/><file name="layout_title_bar" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/layout_title_bar.xml" qualifiers="" type="layout"/><file name="menu_frame" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/menu_frame.xml" qualifiers="" type="layout"/><file name="news_center_frame" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/news_center_frame.xml" qualifiers="" type="layout"/><file name="pull_to_load_footer" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/pull_to_load_footer.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/pull_to_refresh_header.xml" qualifiers="" type="layout"/><file name="viewpager_item" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/layout/viewpager_item.xml" qualifiers="" type="layout"/><file name="main" path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="buttonBarStyle"/>
+        <attr format="reference" name="buttonBarButtonStyle"/>
+    </declare-styleable></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/colors.xml" qualifiers=""><color name="gray_background">#ffececec</color><color name="news_item_has_read_textcolor">#828282</color><color name="search_tab_nomarl">#363636</color><color name="line_color">#523E2E</color><color name="white">#FFFFFF</color><color name="menu_item_text_color">#E60200</color><color name="black">#000000</color><color name="red">#E51A18</color><color name="black_overlay">#66000000</color><color name="news_item_no_read_textcolor">#363636</color><color name="search_tab_select">#E82926</color></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="shadow_width">5dp</dimen><dimen name="slidingmenu_offset">180dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="bottom_tab_padding_drawable">2.0dip</dimen><dimen name="bottom_tab_font_size">14.0sp</dimen><dimen name="list_padding">10dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="bottom_tab_padding_up">2.0dip</dimen></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/drawables.xml" qualifiers=""><item name="green" type="drawable">#ff40929C</item><item name="transparent" type="drawable">#00000000</item><item name="black" type="drawable">#000000</item><item name="yellow" type="drawable">#ffff9000</item><item name="white" type="drawable">#ffffffff</item><item name="red" type="drawable">#00000000</item></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/picture_dimens.xml" qualifiers=""><dimen name="picture_album_top_margin">10dp</dimen><dimen name="pciture_view_pager_margin">80dp</dimen><dimen name="picture_album_title_text_size">12dp</dimen><dimen name="picture_action_bar_button_margin">0dp</dimen><dimen name="picture_count_text_size">12dp</dimen><dimen name="picture_pull_to_refresh_last_update_time_text_size">10dp</dimen><dimen name="picture_album_column_margin">5dp</dimen><dimen name="picture_action_bar_page_index_text_size">18dp</dimen><dimen name="picture_album_text_margin">6dp</dimen><dimen name="picture_action_bar_height">48dp</dimen><dimen name="picture_user_guide_margin">8dp</dimen><dimen name="picture_album_view_margin_bottom">9dp</dimen><dimen name="picture_pull_to_refresh_last_update_time_top_margin">6dp</dimen><dimen name="picture_reload_text_size">16dp</dimen><dimen name="picture_album_view_margin">8dp</dimen><dimen name="picture_album_item_title_height">30dp</dimen><dimen name="picture_pull_to_refresh_footer_height">40dp</dimen><dimen name="picture_loading_text_top_margin">12dp</dimen><dimen name="picture_pull_to_refresh_loading_text_size">14dp</dimen></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/pull_refresh_strings.xml" qualifiers=""><string name="picture_save_fail">Failed to save image</string><string name="pull_to_refresh_header_hint_normal2">Pull up to refresh</string><string name="picture_load_image_failed">Tap to reload</string><string name="pull_to_refresh_footer_hint_ready">Release to load more</string><string name="pushmsg_center_pull_down_text">Pull down to refresh</string><string name="pushmsg_center_load_more_ongoing_text">Loading...</string><string name="pull_to_refresh_header_hint_normal">@string/pushmsg_center_pull_down_text</string><string name="pushmsg_center_pull_up_text">Release to load more</string><string name="picture_previous_album">Previous：</string><string name="picture_save_succeed">Image has been saved to album</string><string name="picture_image_loading">Loading…</string><string name="pushmsg_center_pull_down_update_time">Last update : </string><string name="pushmsg_center_no_more_msg">Bottom reached</string><string name="pull_to_refresh_header_hint_ready">Release to refresh</string><string name="pull_to_refresh_refreshing_label">@string/pull_to_refresh_header_hint_loading</string><string name="xsearch_loading">Loading…</string><string name="pushmsg_center_pull_release_text">Release to load more</string><string name="pull_to_refresh_no_more_data">@string/pushmsg_center_no_more_msg</string><string name="pull_to_refresh_header_last_time">@string/pushmsg_center_pull_down_update_time</string><string name="picture_next_album">Next：</string><string name="pull_to_refresh_header_hint_loading">@string/pushmsg_center_load_more_ongoing_text</string><string name="pull_to_refresh_network_error">Network error</string></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/strings.xml" qualifiers=""><string name="tab_gov_affairs">Guidance</string><string name="tab_news_center">News</string><string name="app_name">News Client</string><string name="dummy_content">dummy_content</string><string name="share_content">News client is awesome!</string><string name="tab_setting">Settings</string><string name="tab_function">Home</string><string name="dummy_button">Dummy Button</string><string name="tab_smart_service">Services</string><string name="removeItem">Remove</string></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/styles.xml" qualifiers=""><style name="style_text_title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="style_text_white">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="style_title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="style_text_btn">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="style_title_btn">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style><style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style><style name="main_tab_bottom">
+        <item name="android:textSize">@dimen/bottom_tab_font_size</item>
+        <item name="android:textColor">@color/bottom_text_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/transparent</item>
+        <item name="android:paddingTop">@dimen/bottom_tab_padding_up</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">@dimen/bottom_tab_padding_drawable</item>
+        <item name="android:layout_weight">1.0</item>
+    </style><style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">@style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@style/ButtonBarButton</item>
+    </style><style name="ButtonBarButton"/><style name="style_text">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/vpi__attrs.xml" qualifiers=""><attr format="boolean" name="centered"/><declare-styleable name="CirclePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the filled circle that represents the current page. -->
+        <attr format="color" name="fillColor"/>
+        <!-- Color of the filled circles that represents pages. -->
+        <attr format="color" name="pageColor"/>
+        <!-- Orientation of the indicator. -->
+        <attr name="android:orientation"/>
+        <!-- Radius of the circles. This is also the spacing between circles. -->
+        <attr format="dimension" name="radius"/>
+        <!-- Whether or not the selected indicator snaps to the circles. -->
+        <attr format="boolean" name="snap"/>
+        <!-- Color of the open circles. -->
+        <attr format="color" name="strokeColor"/>
+        <!-- Width of the stroke used to draw the circles. -->
+        <attr name="strokeWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><declare-styleable name="TitlePageIndicator">
+        <!-- Screen edge padding. -->
+        <attr format="dimension" name="clipPadding"/>
+        <!-- Color of the footer line and indicator. -->
+        <attr format="color" name="footerColor"/>
+        <!-- Height of the footer line. -->
+        <attr format="dimension" name="footerLineHeight"/>
+        <!-- Style of the indicator. Default is triangle. -->
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        <!-- Height of the indicator above the footer line. -->
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        <!-- Left and right padding of the underline indicator. -->
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        <!-- Padding between the bottom of the title and the footer. -->
+        <attr format="dimension" name="footerPadding"/>
+        <!-- Position of the line. -->
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        <!-- Color of the selected title. -->
+        <attr name="selectedColor"/>
+        <!-- Whether or not the selected item is displayed as bold. -->
+        <attr format="boolean" name="selectedBold"/>
+        <!-- Color of regular titles. -->
+        <attr name="android:textColor"/>
+        <!-- Size of title text. -->
+        <attr name="android:textSize"/>
+        <!-- Padding between titles when bumping into each other. -->
+        <attr format="dimension" name="titlePadding"/>
+        <!-- Padding between titles and the top of the View. -->
+        <attr format="dimension" name="topPadding"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        <!-- Whether or not the selected indicator fades. -->
+        <attr format="boolean" name="fades"/>
+        <!-- Length of the delay to fade the indicator. -->
+        <attr format="integer" name="fadeDelay"/>
+        <!-- Length of the indicator fade to transparent. -->
+        <attr format="integer" name="fadeLength"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="ViewPagerIndicator">
+        <!-- Style of the circle indicator. -->
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        <!-- Style of the icon indicator's views. -->
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        <!-- Style of the line indicator. -->
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        <!-- Style of the title indicator. -->
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        <!-- Style of the tab indicator's tabs. -->
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        <!-- Style of the underline indicator. -->
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><attr format="dimension" name="strokeWidth"/><declare-styleable name="LinePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the unselected lines that represent the pages. -->
+        <attr name="unselectedColor"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- Width of each indicator line. -->
+        <attr format="dimension" name="lineWidth"/>
+        <!-- Width of each indicator line's stroke. -->
+        <attr name="strokeWidth"/>
+        <!-- Width of the gap between each indicator line. -->
+        <attr format="dimension" name="gapWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values/vpi__styles.xml" qualifiers=""><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">3dp</item>
+        <item name="android:layout_marginRight">3dp</item>
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget"/><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/news__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">13dp</item>
+        <item name="android:paddingBottom">13dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textColor">@color/news_tab_theme</item>
+    </style></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/generated/res/rs/debug"/><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/Users/wilson/AndroidStudioProjects/newsclientclone1/app/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="buttonBarStyle"/><attr format="reference" name="buttonBarButtonStyle"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="SlidingMenu"><attr name="mode"><enum name="left" value="0"/><enum name="right" value="1"/></attr><attr format="reference" name="viewAbove"/><attr format="reference" name="viewBehind"/><attr format="dimension" name="behindOffset"/><attr format="dimension" name="behindWidth"/><attr format="float" name="behindScrollScale"/><attr name="touchModeAbove"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr name="touchModeBehind"><enum name="margin" value="0"/><enum name="fullscreen" value="1"/></attr><attr format="reference" name="shadowDrawable"/><attr format="dimension" name="shadowWidth"/><attr format="boolean" name="fadeEnabled"/><attr format="float" name="fadeDegree"/><attr format="boolean" name="selectorEnabled"/><attr format="reference" name="selectorDrawable"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

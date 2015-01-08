@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">News Client</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">dummy_content</string>
+    <string name="tab_function">Home</string>
+    <string name="tab_news_center">News</string>
+    <string name="tab_smart_service">Services</string>
+    <string name="tab_gov_affairs">Guidance</string>
+    <string name="tab_setting">Settings</string>
+    <string name="share_content">News client is awesome!</string>
+    <string name="removeItem">Remove</string>
+
+</resources>

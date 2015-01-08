@@ -1,0 +1,8 @@
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/classes/debug
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-e064b4135dd4c17f7e0a12d551d192349ce44464.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/classes-5b35bdceb2bfafa86657b694faf6c7053c574637.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/commons-codec-1.3-76df65b162ac5837d1a250ca719d591b6f63b0d0.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/gson-2.2.1-5dce9dc5c0a41d8cf1bc821702cdf1f171351568.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c3e8bde6976fca39df28b2caa8907505c53d30cb.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/xUtils-2.6.14-961dc7ce669d964faabceb3ca485da5e0a3d995e.jar
+/Users/wilson/AndroidStudioProjects/newsclientclone1/app/build/intermediates/pre-dexed/debug/classes-b43a2a36b100bf59ad54d96a122e2c0190327426.jar
